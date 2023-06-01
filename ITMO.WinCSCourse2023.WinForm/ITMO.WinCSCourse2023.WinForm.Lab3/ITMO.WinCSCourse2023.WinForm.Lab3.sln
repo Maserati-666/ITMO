@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinCSCourse2023.Lab3.Exercise1", "ITMO.WinCSCourse2023.WinForm.Lab3.Exercise1\ITMO.WinCSCourse2023.Lab3.Exercise1.csproj", "{378F8250-F2D1-43D1-ACD8-8D565F6B266E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinCSCourse2023.WinForm.Lab3.Exercise1CL", "ITMO.WinCSCourse2023.WinForm.Lab3.Exercise1CL\ITMO.WinCSCourse2023.WinForm.Lab3.Exercise1CL.csproj", "{98D626E7-C5DB-4717-9559-02C2119CB1CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{378F8250-F2D1-43D1-ACD8-8D565F6B266E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378F8250-F2D1-43D1-ACD8-8D565F6B266E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378F8250-F2D1-43D1-ACD8-8D565F6B266E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378F8250-F2D1-43D1-ACD8-8D565F6B266E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98D626E7-C5DB-4717-9559-02C2119CB1CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D626E7-C5DB-4717-9559-02C2119CB1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D626E7-C5DB-4717-9559-02C2119CB1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D626E7-C5DB-4717-9559-02C2119CB1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5FA064A-B486-4DFB-8822-52A9EE5D1F33}
+	EndGlobalSection
+EndGlobal

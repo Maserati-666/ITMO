@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinCSCourse2023.WinForm.Lab2.Exercise1", "ITMO.WinCSCourse2023.WinForm.Lab2.Exercise1\ITMO.WinCSCourse2023.WinForm.Lab2.Exercise1.csproj", "{74103921-C065-4E79-B675-5C4A56AF81FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinCSCourse2023.WinForm.Lab2.Exercise2", "ITMO.WinCSCourse2023.WinForm.Lab2.Exercise2\ITMO.WinCSCourse2023.WinForm.Lab2.Exercise2.csproj", "{4CA6B163-564C-4170-9A4F-7EAF81C67CA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinCSCourse2023.WinForm.Lab2.Exercise3", "ITMO.WinCSCourse2023.WinForm.Lab2.Exercise3\ITMO.WinCSCourse2023.WinForm.Lab2.Exercise3.csproj", "{AEF7E0FF-D147-4D58-ADF5-E8ED6953D583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinCSCourse2023.WinForm.Lab2.Exercise4", "ITMO.WinCSCourse2023.WinForm.Lab2.Exercise4\ITMO.WinCSCourse2023.WinForm.Lab2.Exercise4.csproj", "{41AB875C-E165-42B1-8F8B-D351D928E2EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinCSCourse2023.WinForm.Lab2.Exercise5", "ITMO.WinCSCourse2023.WinForm.Lab2.Exercise5\ITMO.WinCSCourse2023.WinForm.Lab2.Exercise5.csproj", "{69241D53-2839-4B46-A5A1-338E3E718BD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinCSCourse2023.WinForm.Lab2.Exercise6", "ITMO.WinCSCourse2023.WinForm.Lab2.Exercise6\ITMO.WinCSCourse2023.WinForm.Lab2.Exercise6.csproj", "{A97CB7B5-4257-4CC5-81DB-106D220B369A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinCSCourse2023.WinForm.Lab2.Exercise7", "ITMO.WinCSCourse2023.WinForm.Lab2.Exercise7\ITMO.WinCSCourse2023.WinForm.Lab2.Exercise7.csproj", "{E672C53A-C825-499B-8906-5F6F930D15BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinCSCourse2023.WinForm.Lab2.Exercise8", "ITMO.WinCSCourse2023.WinForm.Lab2.Exercise8\ITMO.WinCSCourse2023.WinForm.Lab2.Exercise8.csproj", "{7ABB2677-F6F8-43E3-9712-CD8E8E3662A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinCSCourse2023.WinForm.Lab2.Exercise9", "ITMO.WinCSCourse2023.WinForm.Lab2.Exercise9\ITMO.WinCSCourse2023.WinForm.Lab2.Exercise9.csproj", "{F915E877-8CF3-4F96-953B-1FADCCBDE218}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74103921-C065-4E79-B675-5C4A56AF81FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74103921-C065-4E79-B675-5C4A56AF81FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74103921-C065-4E79-B675-5C4A56AF81FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74103921-C065-4E79-B675-5C4A56AF81FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA6B163-564C-4170-9A4F-7EAF81C67CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA6B163-564C-4170-9A4F-7EAF81C67CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA6B163-564C-4170-9A4F-7EAF81C67CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA6B163-564C-4170-9A4F-7EAF81C67CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF7E0FF-D147-4D58-ADF5-E8ED6953D583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF7E0FF-D147-4D58-ADF5-E8ED6953D583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF7E0FF-D147-4D58-ADF5-E8ED6953D583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF7E0FF-D147-4D58-ADF5-E8ED6953D583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41AB875C-E165-42B1-8F8B-D351D928E2EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41AB875C-E165-42B1-8F8B-D351D928E2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41AB875C-E165-42B1-8F8B-D351D928E2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41AB875C-E165-42B1-8F8B-D351D928E2EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69241D53-2839-4B46-A5A1-338E3E718BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69241D53-2839-4B46-A5A1-338E3E718BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69241D53-2839-4B46-A5A1-338E3E718BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69241D53-2839-4B46-A5A1-338E3E718BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A97CB7B5-4257-4CC5-81DB-106D220B369A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97CB7B5-4257-4CC5-81DB-106D220B369A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97CB7B5-4257-4CC5-81DB-106D220B369A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97CB7B5-4257-4CC5-81DB-106D220B369A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E672C53A-C825-499B-8906-5F6F930D15BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E672C53A-C825-499B-8906-5F6F930D15BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E672C53A-C825-499B-8906-5F6F930D15BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E672C53A-C825-499B-8906-5F6F930D15BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ABB2677-F6F8-43E3-9712-CD8E8E3662A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ABB2677-F6F8-43E3-9712-CD8E8E3662A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ABB2677-F6F8-43E3-9712-CD8E8E3662A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ABB2677-F6F8-43E3-9712-CD8E8E3662A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F915E877-8CF3-4F96-953B-1FADCCBDE218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F915E877-8CF3-4F96-953B-1FADCCBDE218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F915E877-8CF3-4F96-953B-1FADCCBDE218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F915E877-8CF3-4F96-953B-1FADCCBDE218}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB0742BE-39B6-4489-8ED6-0ADB29A2898F}
+	EndGlobalSection
+EndGlobal

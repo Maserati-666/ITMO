@@ -1,0 +1,24 @@
+﻿<Window x:Class="ITMO.WinCSCourse2023.WPF.Lab4.Task2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ITMO.WinCSCourse2023.WPF.Lab4.Task2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <RichTextBox x:Name="rTextBox" Margin="0,37,0,-38">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text=""/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <ToolBar HorizontalAlignment="Center" Height="37" VerticalAlignment="Top" Width="800">
+            <Button x:Name="butBold" Click="Button_Click">Bold</Button>
+            <Button x:Name="butItalic" Click="Button_Click_1">Italic</Button>
+            <Slider x:Name="Slider" Minimum="2" Maximum="72" Width="100" ValueChanged="Slider_ValueChanged"></Slider>
+            <ComboBox x:Name="comboBox" Width="75" SelectionChanged="comboBox_SelectionChanged"></ComboBox>
+        </ToolBar>
+    </Grid>
+</Window>
